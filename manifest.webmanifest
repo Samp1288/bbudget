@@ -1,0 +1,12 @@
+{
+  "name": "Budget Boss",
+  "short_name": "Budget Boss",
+  "description": "Budget personnel local, privé et synchronisable.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f6f1",
+  "theme_color": "#173c34",
+  "lang": "fr-CA",
+  "orientation": "portrait-primary",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
